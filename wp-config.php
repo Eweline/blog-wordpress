@@ -19,13 +19,13 @@
 define('DB_NAME', 'blog_wordpress');
 
 /** Usuário do banco de dados MySQL */
-define('DB_USER', 'tyesha');
+define('DB_USER', 'root');
 
 /** Senha do banco de dados MySQL */
-define('DB_PASSWORD', '7ByV3MtZ');
+define('DB_PASSWORD', '');
 
 /** nome do host do MySQL */
-define('DB_HOST', 'tunnel.pagodabox.com:3306');
+define('DB_HOST', 'localhost');
 
 /** Conjunto de caracteres do banco de dados a ser usado na criação das tabelas. */
 define('DB_CHARSET', 'utf8');
